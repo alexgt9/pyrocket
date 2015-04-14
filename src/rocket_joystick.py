@@ -1,5 +1,6 @@
 #!/usr/bin/python
-from opencv import cv, highgui
+import cv
+from cv import *
 
 from pygtk import require
 require('2.0')
